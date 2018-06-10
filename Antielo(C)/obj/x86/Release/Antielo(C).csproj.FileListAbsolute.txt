@@ -1,0 +1,7 @@
+C:\Users\Kuba\documents\visual studio 2010\Projects\Antielo(C)\Antielo(C)\bin\Release\Antielo(C).exe
+C:\Users\Kuba\documents\visual studio 2010\Projects\Antielo(C)\Antielo(C)\bin\Release\Antielo(C).pdb
+C:\Users\Kuba\documents\visual studio 2010\Projects\Antielo(C)\Antielo(C)\obj\x86\Release\Antielo.MainForm.resources
+C:\Users\Kuba\documents\visual studio 2010\Projects\Antielo(C)\Antielo(C)\obj\x86\Release\Antielo.Properties.Resources.resources
+C:\Users\Kuba\documents\visual studio 2010\Projects\Antielo(C)\Antielo(C)\obj\x86\Release\Antielo(C).csproj.GenerateResource.Cache
+C:\Users\Kuba\documents\visual studio 2010\Projects\Antielo(C)\Antielo(C)\obj\x86\Release\Antielo(C).exe
+C:\Users\Kuba\documents\visual studio 2010\Projects\Antielo(C)\Antielo(C)\obj\x86\Release\Antielo(C).pdb

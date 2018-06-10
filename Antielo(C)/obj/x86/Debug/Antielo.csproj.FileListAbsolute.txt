@@ -1,0 +1,7 @@
+C:\Users\Kuba\AppData\Local\Temporary Projects\Antielo\bin\Debug\Antielo.exe
+C:\Users\Kuba\AppData\Local\Temporary Projects\Antielo\bin\Debug\Antielo.pdb
+C:\Users\Kuba\AppData\Local\Temporary Projects\Antielo\obj\x86\Debug\Antielo.MainForm.resources
+C:\Users\Kuba\AppData\Local\Temporary Projects\Antielo\obj\x86\Debug\Antielo.Properties.Resources.resources
+C:\Users\Kuba\AppData\Local\Temporary Projects\Antielo\obj\x86\Debug\Antielo.csproj.GenerateResource.Cache
+C:\Users\Kuba\AppData\Local\Temporary Projects\Antielo\obj\x86\Debug\Antielo.exe
+C:\Users\Kuba\AppData\Local\Temporary Projects\Antielo\obj\x86\Debug\Antielo.pdb
